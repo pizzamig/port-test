@@ -1,2 +1,2 @@
 # port-test
-A project to build tests for ports
+A project to provide subpackage tests for ports
